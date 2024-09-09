@@ -1,0 +1,24 @@
+Selenium Web Driver : 
+
+What is selenium webdriver?
+
+a>WebDriver is one of the componeent in Selenium.
+b>WebDriver is a java interface.
+c>WebDriver is an API(Application Programming interface)
+
+WebDriver Interface : RemoteWebDriver Class extends different drivers
+Chrome Browser : Chrome Driver
+FireFoxBrowser : FirefoxDriver
+EdgeBrowser : EdgeDriver
+
+Application Programming Interface : 
+Application : 
+
+Programming : 
+
+Interface : 
+
+MVC Architecture : 
+Model : 
+View:
+Controller : 
